@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Home Page</title>
+<body>
+	<jsp:include page="header.jsp"></jsp:include>
+	
+	<div class="container">
+		<h1>Home Page</h1>
+		<p>Welcome to my website</p>
+	</div>
+</body>
+</html>
